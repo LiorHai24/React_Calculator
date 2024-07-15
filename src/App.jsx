@@ -214,4 +214,3 @@ function App() {
 }
 
 export default App
-/* can't calc 8+9)*/
